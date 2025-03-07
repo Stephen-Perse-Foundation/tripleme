@@ -1,0 +1,1 @@
+tripleMe x = x * 3
